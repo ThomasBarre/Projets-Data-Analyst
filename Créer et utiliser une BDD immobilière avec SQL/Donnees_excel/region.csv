@@ -1,0 +1,20 @@
+reg_code,reg_nom,regrgp_nom
+84,Auvergne-Rhône-Alpes,Province
+32,Hauts-de-France,Province
+93,Provence-Alpes-Côte d'Azur,Province
+44,Grand Est,Province
+76,Occitanie,Province
+28,Normandie,Province
+75,Nouvelle-Aquitaine,Province
+24,Centre-Val de Loire,Province
+27,Bourgogne-Franche-Comté,Province
+53,Bretagne,Province
+52,Pays de la Loire,Province
+11,Ile-de-France,Ile-de-France
+1,Guadeloupe,DROM-COM
+2,Martinique,DROM-COM
+3,Guyane,DROM-COM
+4,La Réunion,DROM-COM
+0,Collectivités d'outre-mer,DROM-COM
+6,Mayotte,DROM-COM
+94,Corse,Province
