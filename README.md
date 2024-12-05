@@ -7,7 +7,8 @@
 
 ### Pour le projet sur les tableaux dynamiques : Réaliser une étude sur l'eau potable
 ### Pour le projets utilsant un ETL : Analyser des indicateurs de l'égalité femme/homme
-### Pour les projets de récupération, traitement et aide à l'orientation décisionnelle: Réaliser une étude de santé public
+### Pour les projets de récupération, traitement et aide à l'orientation décisionnelle: Réaliser une étude de santé public 
+###                                                                                     Produir une étude de marché
 
 #### lien pour plus de détails sur la formation et les projets : https://openclassrooms.com/fr/paths/804-data-analyst#projects
 
