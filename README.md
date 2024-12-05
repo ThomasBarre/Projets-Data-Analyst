@@ -1,8 +1,4 @@
-# Informations sur la formation "Data Analyst"
-
-### Cette formation a été suivi via Openclassroom
-
-### Pour un total de 10 projets
+# Informations sur la formation "Data Analyst", Cette formation a été suivi via Openclassroom Pour un total de 10 projets
 
 ### Les projest ont été réalisés avec un notebook jupyter.
 ### Pour lancer les projets : -ouvrez une fenêtre de commande là ou se trouve le projet
